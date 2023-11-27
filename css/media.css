@@ -7,8 +7,8 @@
 
 	header { width: 100%; }
 	header .Center { width: 100%; padding: 0px 2%;  }
-	header .site-logo { padding: 18px 0 0 1px; }
-	header.smaller .site-logo { padding: 11px 0 0; }
+	header .site-logo { padding: 0px 0 0 1px; }
+	header.smaller .site-logo { padding: 0px 0 0; }
 	
 	.Navigation { margin-right: 0px; }
 	.Navigation li a { padding: 30px 36px; }
@@ -73,8 +73,8 @@
 
 	header { width: 100%; height: 87px; }
 	header .Center { width: 100%; padding: 0px 2%; }
-	header .site-logo { padding: 27px 0 0 1px;  position: relative; z-index: 1; }
-	header .site-logo h1 { line-height: 33px; }	
+	header .site-logo { padding: 0px 0 0 1px;  position: relative; z-index: 1; }
+	header .site-logo h1 { line-height: 0px; }	
 	header.smaller .Navigation li a { padding: 16px 20px; }
 
 	.Navigation {  margin-right: 0px; }
@@ -180,10 +180,10 @@
 
 	header { width: 100%; position: absolute; height: 57px;}
 	header .Center { width: 100%;  }
-	header .site-logo { padding: 10px 0% 0px 3%; position: relative; z-index: 1; }
+	header .site-logo { padding: 0px 0% 0px 3%; position: relative; z-index: 1; }
 	header .site-logo h1 { margin: 0px; line-height: 36px; }
 	header.smaller { height: 55px;}
-	header.smaller .site-logo { padding: 10px 0% 0px 3%; }
+	header.smaller .site-logo { padding: 0px 0% 0px 3%; }
 	header.smaller .site-logo h1 a { font-size: 36px; }
 	
 	#mobile_sec { position: fixed; width: 100%; }
@@ -284,7 +284,7 @@
 
 	header { width: 100%; position: absolute; height: 57px; }
 	header .Center { width: 100%;}
-	header .site-logo { padding: 10px 0% 0px 3%; position: relative; z-index: 1; }
+	header .site-logo { padding: 0px 0% 0px 3%; position: relative; z-index: 1; }
 	header .site-logo h1 { margin: 0px; line-height: 36px; }
 	header.smaller { height: 55px;}
 	header.smaller .site-logo { padding: 10px 0% 0px 3%; }
@@ -409,7 +409,7 @@
 		height: 45px;
 	}
 	header .site-logo {
-		padding-top: 8px;
+		padding-top: 0px;
 	}
 	.Navigation li:hover span, .Navigation li.active span {
 		height: 45px;
