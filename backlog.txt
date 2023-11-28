@@ -1,4 +1,7 @@
 to do:
 -terra agrícola - todo o suporte para o contato
 -sistema de login - alterando estoque?
--Sistema de conta, que ao acessar possibilita o usuario de ver as notas fiscais atreladas a ele. para poder imprimir.
+
+-mudar mapa para sistema mais simples.
+-Sistema de conta, que ao acessar possibilita o usuario de ver as notas fiscais atreladas a ele. 
+para poder imprimir.
