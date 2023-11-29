@@ -338,3 +338,10 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 .no-js #loader-wrapper {
 	display: none;
 }
+
+
+/* MAPA */
+.mapa{
+	text-align: center;
+	background-color: white;
+}
