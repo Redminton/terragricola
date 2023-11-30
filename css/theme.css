@@ -116,7 +116,7 @@ header.smaller .Navigation li { height: 60px; }
 .Banner_sec .rightside li { padding: 0px; margin: 0; float: none!important; }
 .Banner_sec .rightside #slider { width: 100%; float: right;  position: relative; z-index: 1; }
 .Banner_sec .rightside .Slider .text { padding: 25px 47px 21px 30px; position: absolute; bottom: 0px; left: 0px; width: 100%; background: rgba(0, 0, 0, 0.7); }
-.Banner_sec .rightside .Slider .text .Icon { width: 38%; float: left; }
+
 .Banner_sec .rightside .Slider .text ul { list-style: none; margin: 0px; }
 .Banner_sec .rightside .Slider .text li { float: left!important; padding: 0px 30px 0px 10px; margin: 0px; }
 .Banner_sec .rightside .Slider .text li a { display: block; font-size: 14px; color: #fff; text-decoration: none; font-family: 'Open Sans', sans-serif; font-weight: 400; transition: all 0.3s ease;}
@@ -147,7 +147,7 @@ header.smaller .Navigation li { height: 60px; }
 	.About_sec { padding: 115px 0px 88px 0px ; width: 100%; overflow: hidden; }
 	.About_sec .Center { max-width: 1100px; margin: auto; overflow: hidden; text-align: center; }
 	.About_sec h2 { font-size: 56px; color: #000; font-family: 'Oswald', sans-serif; font-weight: 400; margin: 0px; text-transform: uppercase; line-height: 60px; letter-spacing: -0.4px; }
-	.About_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #979797; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
+	.About_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #464646; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
 	.About_sec .Line { border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto; }
 	.About_sec .Tabside { padding: 90px 0px; width: 100%;}
 	.About_sec .Tabside ul { list-style: none; margin: 0px; padding-bottom: 59px; }
@@ -162,7 +162,7 @@ header.smaller .Navigation li { height: 60px; }
 	.About_sec .Tabside .Description { width: 54.3%; float: right; text-align: left; margin-top: -6px;}
 	.About_sec .Tabside .Description h3 { font-size: 24px; color: #000; margin: 0px; text-transform: uppercase; font-family:'Open Sans'; line-height: 29px; }
 	.About_sec .Tabside .Description h3 span { padding-left: 3px; font-size: 14px; color: #ff9000; display: block; }
-	.About_sec .Tabside .Description p { padding: 21px 0px 4px 0px; font-size: 14px; color: #979797; margin: 0px; font-family:'Open Sans'; line-height: 25px; }
+	.About_sec .Tabside .Description p { padding: 21px 0px 4px 0px; font-size: 14px; color: #444444; margin: 0px; font-family:'Open Sans'; line-height: 25px; }
 	.About_sec .Tabside .Description p .cyan { font-size: 16px; color: #08c2ff; }
 
 
