@@ -3,6 +3,8 @@
  const senha_admin = 'admin';
  const login_conta1 = 'conta1';
  const senha_conta1 = 'conta1';
+ const login_conta2 = 'conta2';
+ const senha_conta2 = 'conta2';
  
  
  
@@ -28,6 +30,9 @@ function acessar(){
         } 
         else if (x === login_conta1 && y === senha_conta1) {
             window.location.href = 'conta1.html';
+        } 
+        else if (x === login_conta2 && y === senha_conta2) {
+            window.location.href = 'conta2.html';
         } 
         else {
             alert('Credenciais incorretas. Tente novamente.');

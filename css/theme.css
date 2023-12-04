@@ -335,6 +335,22 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 	text-align: center;
 	background-color: white;
 }
-
+#notas{
+	display: none;
+}
+.notas table{
+	width: 300%;
+	max-width: 600px;
+	font-size: 15px;
+	
+}
+.notas table th{
+	background-color: rgb(18, 51, 10);
+}
+.notas table tr{
+	background-color: rgba(18, 51, 10, 0.267);
+	color: #ffffff;
+	
+}
 
 
