@@ -1,8 +1,10 @@
 to do:
--terra agrícola - todo o suporte para o contato
-trocar fundos da imagem
-trocar imagens
 
+
+-trocar imagens
+-falar com gui
+-fazer banco
+-fazer engenharia
 
 -Sistema de conta, que ao acessar possibilita o usuario de ver as notas fiscais atreladas a ele. 
 para poder imprimir. - no mínimo 3 contas diferentes;
