@@ -1,4 +1,4 @@
- 
+ // declaração dos logins
  const login_admin = 'admin';
  const senha_admin = 'admin';
  const login_conta1 = 'conta1';
@@ -19,24 +19,22 @@
         login.style.display = "none";
     }
 }
+// compara o valor do formulário com a senha definida para acessar a respectiva página
 function acessar(){
     var x = document.getElementById('usuario').value;
     var y = document.getElementById('senha').value;
         if (x === login_admin && y === senha_admin) {
-            console.log('Acessando admin');
-            window.location.href = 'admin.html';
+            window.location.href = 'administrador.html';
         } 
         else if (x === login_conta1 && y === senha_conta1) {
-            console.log('Acessando conta');
-            window.location.href = 'minha_conta.html';
+            window.location.href = 'conta1.html';
         } 
         else {
             alert('Credenciais incorretas. Tente novamente.');
-         
         }
 
 }
-
+// mesma coisa que a função login, porém tbm dispara função acessar()
 function acessar2(){
  //pega o id do div e transforma em uma variável
  var login = document.getElementById("login");

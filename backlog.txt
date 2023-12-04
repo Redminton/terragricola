@@ -1,7 +1,5 @@
 to do:
 
-
--trocar imagens
 -falar com gui
 -fazer banco
 -fazer engenharia
