@@ -1,5 +1,7 @@
 to do:
 -terra agrícola - todo o suporte para o contato
+trocar fundos da imagem
+trocar imagens
 
 
 -Sistema de conta, que ao acessar possibilita o usuario de ver as notas fiscais atreladas a ele. 
