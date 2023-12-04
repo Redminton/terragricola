@@ -94,7 +94,7 @@
                                     <div class="text">
                                                             								
                                         <div class="Lorem">
-                                            <p>Acesse a sua Conta<span><a href="#services" onclick="expandLogin()">Clicando aqui!</a></span></p>
+                                            <p>Acesse a sua Conta<span><a href="#services" onclick="login()">Clicando aqui!</a></span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -206,7 +206,7 @@
 
                 <div class="Serviceside">
                     <ul>
-	                     <li class="Development"><a onclick="expandLogin()"><h4>Acessar Conta</h4></a></li>
+	                     <li class="Development"><a onclick="login()"><h4>Acessar Conta</h4></a></li>
                          <li  id="login" class="Concept">
                             <h2>Login</h2><br>
                             <form>
@@ -215,11 +215,11 @@
                                 <label for="senha">Senha:</label>
                                 <input type="password" id="senha" name="password" required>
                                 <br><br>
-                                <button  class="bot_login" type="button" id="bot_login2" onclick="acesso()">Entrar</button>
+                                <button  class="bot_login" type="button" id="bot_login2" onclick="acessar()">Entrar</button>
                             </form>
                         </li>
-    	               <li class="Desdin"><a onclick="expandLogin()"><h4>Acessar Notas</h4></a></li>
-	                    
+    	               <li class="Desdin"><a onclick="acessar2()"><h4>Acessar Notas</h4></a></li>
+	                    00
 	                 <li class="System"><a href="#home"><h4>Voltar ao início</h4></a></li>    
                     </ul>
                 </div>
@@ -304,7 +304,12 @@
     <div class="loader-section section-right"></div>
 
 </div>
-
+<script>
+document.getElementById('senha').addEventListener('keydown', function (event) {
+    if (event.key === 'Enter') {
+        acessar();
+    }
+}); </script>
 <!-- Carrega os javascripts-->
 <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="js/jquery.sudoSlider.min.js"></script>
