@@ -1,8 +1,5 @@
-to do:
 
--falar com gui
--fazer banco
--fazer engenharia
+https://app.brmodeloweb.com/#!/conceptual/6571c04cdfe114478e11fe9f
 
--Sistema de conta, que ao acessar possibilita o usuario de ver as notas fiscais atreladas a ele. 
-para poder imprimir. - no mínimo 3 contas diferentes;
+
+https://online.visual-paradigm.com/w/owhacwvk/diagrams/#diagram:proj=0&type=UseCaseDiagram&width=11&height=8.5&unit=inch
